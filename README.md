@@ -12,13 +12,13 @@
 
 🔹 Lifelong Learner: In the rapidly evolving tech landscape, I'm committed to continuous learning. Whether it's mastering the latest Flutter features or exploring new languages, I'm always hungry for knowledge.
 
-- 🔭 I’m currently working on **KidFit Adventure Application**
+- 🔭 I’m currently working on **CatCare Adventure Application**
 
 - 🌱 I’m currently learning **Clean Architecture with MVC Using Getx**
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Yousef+Medhat](https://play.google.com/store/apps/developer?id=Yousef+Medhat)
 
-- 💬 Ask me about **Android , Flutter , Dart**
+- 💬 Ask me about **Android , Flutter , Dart , Flame , Asprite , Pixle Art**
 
 - 📫 How to reach me **YouseffMedhatt@gmail.com**
 
